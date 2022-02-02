@@ -1,4 +1,4 @@
-# cachingInDjango
+# Caching in Django
 
 Caching in Django.
 
